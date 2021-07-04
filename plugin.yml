@@ -1,0 +1,6 @@
+---
+name: BandAPI
+version: 0.0.1
+main: faiz\BandAPI\Main
+api: 3.21.0
+...
